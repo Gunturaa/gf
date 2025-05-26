@@ -37,7 +37,7 @@ var PageTransitions = (function () {
 
             setInterval(function () {
                 $("#tombolMulaiSekarang").click();
-            }, 4000);
+            }, 7000);
 
             if (isAnimating) {
                 return false;
